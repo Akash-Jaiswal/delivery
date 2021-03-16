@@ -1,7 +1,7 @@
 {
-  "name": "delivery",
-  "version": "1.0.1",
-  "description": "delivery ",
+  "name": "delivery-location-tracking",
+  "version": "1.0.0",
+  "description": "delivery-location-tracking",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Akash-Jaiswal/delivery/issues"
   },
-  "homepage": "https://github.com/Akash-Jaiswal/delivery#readme",
-  "dependencies": {
-    "foobar": "^1.1.0"
-  }
+  "homepage": "https://github.com/Akash-Jaiswal/delivery#readme"
 }
